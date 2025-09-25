@@ -1,10 +1,13 @@
-.links {text-align: right; color:#aadcff; background-color: #1c2128;}
-.backg {background-color: #2a4253; padding: 15px;}
+.links {color:#aadcff; background-color: #1c2128;}
+.backg {background-color: #2a4253; padding: 0px 10px;}
 .center {text-align: center;}
+div {border-color: #000000bb; border-style: inset; border-width: 2px;}
 body {background-color: #1c2128; color: white; text-align: center;}
 h1 {background-color: #2a4253; color: #dfdfdf;}
-h3 {background-color: #1c2128; color: #5b9ec2;}
-a {color: #aadcff; text-decoration: none;}
-a:hover {color: white; text-decoration: overline underline;}
+.h3 {padding: 1%; background-color: #1c2128; color: #5b9ec2; border-radius: 5px;}
+a {width: 200px; margin: 5px; padding: 5px 10px; background: rgba(0, 0, 0, 0.212); 
+    color: #aadcff; text-decoration: none; border-radius: 5px;}
+a:hover {background: #aadcff; color: black;}
+hr {border-color: #1c2128;}
 
 /* gayest gaymer of all time */
